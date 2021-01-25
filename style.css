@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62%;
+}
+
+#main{
+    background: #eeeeee;
+    margin: 2rem 1rem;
+    font-size: 1.8rem;
+}
+
+#title{
+    padding: 3rem;
+}
+
+#title h1{
+    font-size: 5rem;
+    font-weight: 600;
+    margin-bottom: 4rem;
+}
+
+#img-div{
+    background: #ffff;
+    padding-bottom: 2rem;
+}
+
+#img{
+    width: 60%;
+    margin-bottom: 2rem;
+}
+
+#tribute-page{
+    width: 50%;
+    margin: auto;
+}
+
+
+#sub-title{
+    padding: 5rem;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+#tribute-page li{
+    line-height: 2em;
+    padding-bottom: 2rem;
+}
+
+.fa-bars{
+    font-size: 2.5rem;
+    color: green;
+}
+
+.fa-times{
+    font-size: 4rem;
+    color: green;
+}
+
+
+.hidden{
+    display: none;
+}
+
+
+.modal-input{
+    padding: 3rem;
+    background-color: #FDFDCF;
+    width: 30%;
+    margin-top: -5rem;
+    font-size: 2rem;
+}
+
+
+.modal-input h4{
+    font-size: 3.2rem;
+}
+
+
+.input input{
+    width: 400px;
+    margin-bottom: 2rem;
+}
+
+
+.input .fa-chevron-down{
+    position: relative;
+    right: 50px;
+}
+
+
+.modal-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-class{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    font-size: 3rem !important;
+    margin-bottom: 1rem;
+    padding:1rem 4rem !important;
+}
+
+
+.right-class{
+    line-height: 2em;
+}
+
+.fa-square{
+    margin-right: 2rem;
+}
+.square-1{
+    background-color: red;
+    color: red;
+}
+
+
+.square-2{
+    background-color: green;
+    color: green;
+}
+
+
+.square-3{
+    background-color: goldenrod;
+    color: goldenrod;
+}
